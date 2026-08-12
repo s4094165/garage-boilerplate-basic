@@ -34,11 +34,9 @@
 **Field/Display Rules (Scope):**
 - Restyling is **Visual Styling Only**: 
     - Colours: Dark theme with Blue accents,
-    - Layout: Centered Layout, 
-- **Outside of Scope:** All Unchanged from the Boilerplate.
-    - Authorisation Logic 
-    - Form Validation
-    - Redirecting Behaviour 
+    - Layout: Centred Layout, 
+- **Outside of Scope:** Keep Unchanged from the Boilerplate.
+    - Authorisation Logic, Validation & Redirecting
 
 ## #3 Deliverable
 - This document will be Committed to: 
@@ -50,4 +48,4 @@
 - We have 5 Members total, and as images are not available for the moment, use placeholder avatars for now (#1 Team Page → Edge Case #1).
 - Blurb maximum word count is 20 for default "short" state (#1 Team Page → Edge Case #2).
 - Name/Role maximum character count is 30 for default "short" state (#1 Team Page → Edge Case #3).
-- Login is **styling only**, with dark theme and blue accents, centered layout and nothing further else to design around.
+- Login is **styling only**, with dark theme and blue accents, centred layout and nothing further else to design around.
