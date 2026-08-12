@@ -4,5 +4,5 @@ export type TeamMemberInfo = {
   name: string;
   role: string;
   bio: string;
-  pic: StaticImageData
+  pic: StaticImageData | null
 }
