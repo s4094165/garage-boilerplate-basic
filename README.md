@@ -1,3 +1,4 @@
+# Week 4 assignment 3&4
 # Garage Boilerplate
 
 > Streamlined Next.js + Firebase monorepo for student capstone projects — batteries included, beginner friendly, free-tier only.
