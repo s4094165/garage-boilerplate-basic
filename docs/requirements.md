@@ -32,8 +32,8 @@
 
 **Field/Display Rules (Scope):**
 - Restyling is **Visual Styling Only**: 
-    - Colours: Dark theme with Blue accents,
-    - Layout: Centred Layout, 
+    - Colours: Dark theme with Blue accents
+    - Layout: Centred Layout
 - **Outside of Scope:** Keep Unchanged from the Boilerplate.
     - Authorisation Logic, Validation & Redirecting
 
