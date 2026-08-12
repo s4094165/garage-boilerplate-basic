@@ -40,7 +40,7 @@
 
 ## #3 Deliverable
 - This document will be Committed to: 
-    - https://github.com/s4094165/garage-boilerplate-basic/tree/main/docs
+    - [https://github.com/s4094165/garage-boilerplate-basic/tree/main/docs](https://github.com/s4094165/garage-boilerplate-basic/tree/team-page/docs)
 - This document will be Shared with: 
     - _PM & UX_
 
