@@ -1,38 +1,42 @@
 import { PageHeader } from '@/components/layout/PageHeader'
 import { TeamMemberInfo } from '@/features/team/types'
-import PlaceholderPic from "../../../../public/team_photos/placeholder.jpeg"
+import ImraanMohammedPic from "../../../features/team/team_photos/imraan-mohammed.jpeg"
+import MaxThumPic from "../../../features/team/team_photos/max-thum.jpeg"
+import NickMoorePic from "../../../features/team/team_photos/nick-moore.jpeg"
+import NirmalRajeshPic from "../../../features/team/team_photos/nirmal-rajesh.jpeg"
+import MaxIvanovicPic from "../../../features/team/team_photos/max-ivanovic.jpeg"
 import TeamMemberGrid from '@/features/team/components/TeamMemberGrid'
 
 const teamMembers: TeamMemberInfo[] = [
   {
     name: "Nirmal Rajesh",
     role: "Project Manager",
-    bio: "Nam ipsum mi, lobortis quis turpis a, feugiat semper nisi. Sed consequat arcu leo, nec laoreet neque efficitur in.",
-    pic: PlaceholderPic
+    bio: "Keeping the team on track. Full-time student studying Information Technology.",
+    pic: NirmalRajeshPic
   },
   {
     name: "Imraan Mohammed",
     role: "Business Analyst",
-    bio: "Duis bibendum odio in ante lobortis suscipit. Duis lacinia ante leo. Nunc facilisis interdum enim, et bibendum felis pharetra vitae.",
-    pic: PlaceholderPic
+    bio: "Turning client needs into actionable tasks for the team. Final Year IT Student @RMIT, Business Owner and IT Support Volunteer.",
+    pic: ImraanMohammedPic
   },
   {
     name: "Max Thum",
     role: "UX",
-    bio: "Mauris sem nunc, convallis a ipsum convallis, tempus porttitor nunc. Duis massa massa, auctor rutrum pretium vel, rhoncus eget erat. Curabitur id porta dolor. Donec at iaculis quam. Praesent posuere.",
-    pic: PlaceholderPic
+    bio: "Designing human centric designs for digital mediums, a final year graduate student and founder of a business.",
+    pic: MaxThumPic
   },
   {
     name: "Nick Moore",
     role: "Developer",
-    bio: "Praesent congue neque sed finibus porttitor. Vestibulum semper tempus justo vel aliquam.",
-    pic: PlaceholderPic
+    bio: "Web developer and final year IT student at RMIT.",
+    pic: NickMoorePic
   },
   {
     name: "Max Ivanovic",
     role: "Developer",
-    pic: PlaceholderPic,
-    bio: "Proin sit amet vulputate diam. Proin lacinia sapien vestibulum nulla dictum, quis scelerisque libero posuere. Donec eu lobortis purus.",
+    pic: MaxIvanovicPic,
+    bio: "Final year computer science student at RMIT.",
   }
 ]
 
