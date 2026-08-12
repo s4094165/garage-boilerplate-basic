@@ -3,14 +3,13 @@ import { TeamMemberInfo } from '@/features/team/types'
 import PlaceholderPic from "../../../../public/team_photos/placeholder.jpeg"
 import TeamMemberGrid from '@/features/team/components/TeamMemberGrid'
 
-const projectManager: TeamMemberInfo = {
-  name: "Nirmal Rajesh",
-  role: "Project Manager",
-  bio: "Nam ipsum mi, lobortis quis turpis a, feugiat semper nisi. Sed consequat arcu leo, nec laoreet neque efficitur in.",
-  pic: PlaceholderPic
-}
-
 const teamMembers: TeamMemberInfo[] = [
+  {
+    name: "Nirmal Rajesh",
+    role: "Project Manager",
+    bio: "Nam ipsum mi, lobortis quis turpis a, feugiat semper nisi. Sed consequat arcu leo, nec laoreet neque efficitur in.",
+    pic: PlaceholderPic
+  },
   {
     name: "Imraan Mohammed",
     role: "Business Analyst",
@@ -41,8 +40,7 @@ export default function TeamPage() {
   return (
     <div className="space-y-6">
       <PageHeader title="Team" description="Our team" />
-      <TeamMemberGrid header={"Project Manager"} teamMembers={[projectManager]}/>
-      <TeamMemberGrid header={"Team"} teamMembers={teamMembers} />
+      <TeamMemberGrid header={null} teamMembers={teamMembers} />
 
     </div>
   )
