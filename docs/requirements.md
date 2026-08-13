@@ -45,7 +45,7 @@
 - **Edge Case #4 → Invalid Login/Sign-Up Attempt:** if a user enters the wrong password for logging in or a previously used email for singin up, the existing error logic must not be changed, only restyle to match the new theme.
 
 ## #3 Deliverable
-- This document will be Committed to: 
+- This document will be Committed under the filename "requirements.md" to the following repo's "requirements" branch with a Pull-Request following suit to the "main" branch: 
     - https://github.com/s4094165/garage-boilerplate-basic/blob/requirements/docs/
 - This document will be Shared with: 
     - _PM & UX_
