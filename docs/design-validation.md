@@ -37,4 +37,4 @@
 
 ## Sign-Off: Notes for Next Roles (Devs)
 **Thu, 13 Aug 2026:** Major Requirements Met in Figma File, Validation Document Updated, UX Design Approved by BA — Imraan Mohammed
-- Dev 1, Nick Moore, Dev 2, Max Ivanovic — You've been cleared to start development based off the Figma file designed by UX, no further concerns from BA's side.
+- Dev 1, Nick Moore & Dev 2, Max Ivanovic — You've been cleared to start development based off the Figma file designed by UX, no further concerns from BA's side.
