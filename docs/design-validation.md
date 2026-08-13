@@ -1,8 +1,8 @@
 # Design Validation Checklist — Team Page & Login/Sign-Up Styling
-**Role:** BA — Imraan Mohammed
-**Date:** Thu, 13 Aug 2026
-**Checked Against:** requirements.md (Tue, 11 Aug 2026)
-**Design Reviewed — Figma Design by UX Max Thum:** [\[Figma Link\]](https://www.figma.com/design/rQsI22gA2Wd3i9XzZdVtaH/Apple-HAPI-UI-UX-design?node-id=204-65&t=p1yeDgYieKRbGXWR-1)
+- **Role:** BA — Imraan Mohammed
+- **Date:** Thu, 13 Aug 2026
+- **Checked Against:** requirements.md (Tue, 11 Aug 2026)
+- **Design Reviewed — Figma Design by UX Max Thum:** [\[Figma Link\]](https://www.figma.com/design/rQsI22gA2Wd3i9XzZdVtaH/Apple-HAPI-UI-UX-design?node-id=204-65&t=p1yeDgYieKRbGXWR-1)
 
 ## Team Page
 
@@ -33,7 +33,7 @@
 
 ## Deliverable
 - This document will be Committed under the filename "design-validation.md"to the following repo's "requirements" branch with a Pull-Request following suit to the "main" branch: 
-    - https://github.com/s4094165/garage-boilerplate-basic/blob/requirements/docs/
+    - https://github.com/s4094165/garage-boilerplate-basic/blob/main/docs/
 
 ## Sign-Off: Notes for Next Roles (Devs)
 **Thu, 13 Aug 2026:** Major Requirements Met in Figma File, Validation Document Updated, UX Design Approved by BA — Imraan Mohammed
