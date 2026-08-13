@@ -31,5 +31,5 @@
 ## Gaps Found (if any)
 - [x] None
 
-## Sign-Off: Notes for Next Roles (UX & Devs)
+## Sign-Off: Notes for Next Roles (Devs)
 **Thu, 13 Aug 2026:** All Major Requirements Met, Document Updated, UX Design Approved... by BA — Imraan Mohammed
