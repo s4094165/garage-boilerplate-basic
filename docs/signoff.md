@@ -4,7 +4,7 @@
 **Date:** 16/08/2026
 
 ## About the Project
-Creating a login page and team page for the HAPI Apple Platform Showcase.
+Creating a login page and team page.
 
 ## Team Members & Roles
 - Nirmal Rajesh – PM
